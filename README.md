@@ -1,4 +1,3 @@
-#Get Started
 BrandPulse, a leading consumer electronics company, has invested in multiple sponsorships across various high-profile events in India. 
 These sponsorships aimed to drive product signups directly at the event venues. 
 The company's goal is to analyze the performance of each event sponsorship in terms of signups achieved and compare this performance against the sponsorship amount spent.
